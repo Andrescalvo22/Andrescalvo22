@@ -5,16 +5,16 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+%7C+Spring+Boot;APIs+REST+Seguras+con+JWT+%7C+Spring+Security;MySQL+%7C+JPA%2FHibernate+%7C+Testing;Fullstack+Junior%3A+Next.js+%2B+React+%2B+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+%7C+Spring+Boot;Secure+REST+APIs+with+JWT+%7C+Spring+Security;MySQL+%7C+JPA%2FHibernate+%7C+Testing;Junior+Fullstack%3A+Next.js+%2B+React+%2B+TypeScript" />
 </p>
 
 ---
 
-## 👋 Sobre mí
-💻 Soy **Desarrollador Backend Java Junior**, formado en **IT Academy (Barcelona Activa)**.  
-Me especializo en crear **APIs REST seguras** con **Spring Boot + Spring Security + JWT**, trabajando con **MySQL + JPA/Hibernate**, aplicando **Clean Code, SOLID y Testing (JUnit/Mockito)**.
+## 👋 About Me
+💻 I am a **Junior Java Backend Developer**, trained at **IT Academy (Barcelona Activa)**.  
+I specialize in building **secure REST APIs** using **Spring Boot + Spring Security + JWT**, working with **MySQL + JPA/Hibernate**, while applying **Clean Code, SOLID principles, and Testing (JUnit/Mockito)**.
 
-🚀 Actualmente busco mi **primera oportunidad profesional** (trabajo o prácticas) para aportar valor y seguir creciendo como desarrollador.
+🚀 I am currently looking for my **first professional opportunity** (job or internship) to contribute value and continue growing as a developer.
 
 ---
 
@@ -31,20 +31,20 @@ Me especializo en crear **APIs REST seguras** con **Spring Boot + Spring Securit
 ✅ **Testing:** JUnit, Mockito  
 ✅ **Tools:** Git/GitHub, Docker, Postman, Swagger/OpenAPI  
 ✅ **Frontend (Junior):** Next.js, React, TypeScript, Axios  
-✅ **Buenas prácticas:** POO, SOLID, Clean Code  
+✅ **Best Practices:** OOP, SOLID, Clean Code  
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 ### 🛠️ Workshop Management System (Fullstack)
-📌 Sistema completo para gestionar un taller mecánico con roles **USER/ADMIN**, endpoints protegidos con JWT y dashboard admin en frontend.
+📌 Complete system for managing a car workshop with **USER/ADMIN** roles, JWT-protected endpoints, and an admin dashboard on the frontend.
 
-- 🔐 Autenticación y autorización con **Spring Security + JWT**
-- 🗄️ Persistencia con **MySQL + JPA/Hibernate**
-- 🧪 Testing y verificación de endpoints con **Postman**
-- 🖥️ Frontend en **Next.js + React + TypeScript**
-- ⚡ Axios interceptor para inyectar automáticamente el token Bearer
+- 🔐 Authentication and authorization with **Spring Security + JWT**
+- 🗄️ Persistence using **MySQL + JPA/Hibernate**
+- 🧪 Endpoint testing and verification with **Postman**
+- 🖥️ Frontend built with **Next.js + React + TypeScript**
+- ⚡ Axios interceptor to automatically inject the Bearer token
 
 🔗 **Backend:** https://github.com/Andrescalvo22/S5.02-Web-Application-Car-Workshop  
 🔗 **Frontend:** https://github.com/Andrescalvo22/S5.02-Web-Application-Front-End  
@@ -52,13 +52,13 @@ Me especializo en crear **APIs REST seguras** con **Spring Boot + Spring Securit
 ---
 
 ### 🃏 Blackjack API (Backend)
-📌 API de Blackjack en Java con lógica de dominio, endpoints REST y persistencia.
+📌 Blackjack API in Java with domain logic, REST endpoints, and persistence.
 
-- ♠️ API REST con **Spring Boot**
-- 🗄️ Persistencia con **MySQL + JPA/Hibernate**
-- ✅ Flujo y endpoints testeados mediante Postman
+- ♠️ REST API with **Spring Boot**
+- 🗄️ Persistence using **MySQL + JPA/Hibernate**
+- ✅ Endpoint flow and testing verified with Postman
 
-🔗 **Repositorio:** https://github.com/Andrescalvo22/S5.01-Blackjack.API  
+🔗 **Repository:** https://github.com/Andrescalvo22/S5.01-Blackjack.API  
 
 ---
 
@@ -74,7 +74,7 @@ Me especializo en crear **APIs REST seguras** con **Spring Boot + Spring Securit
 
 ---
 
-## 🤝 Contacto
+## 🤝 Contact
 📩 **Email:** andrescalvo01@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/andr%C3%A9s-calvo-prieto-/  
 🐙 **GitHub:** https://github.com/Andrescalvo22  
@@ -84,4 +84,3 @@ Me especializo en crear **APIs REST seguras** con **Spring Boot + Spring Securit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff0000&height=120&section=footer" />
 </p>
-
